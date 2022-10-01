@@ -1,7 +1,6 @@
 - Hi, I’m @Jamblefoot
 - I’m interested in making fun games for people to play. I have made a variety of mobile apps for Android (and a little iOS), and have lately been working in Unity on a dog walking simulator for VR and nonVR.
 - I’m currently learning iOS development, Flutter, compute shaders, and PHP.
-- I’m looking to collaborate on games, or honestly really anything at this point.
 - You can reach me at mark@stufco.com
 
 Thanks for stopping by!
